@@ -1,2 +1,2 @@
 # CCKT
-The source code of CIFSCIL will be released when it is accepted.
+The source code of CCKT will be released when it is accepted.
